@@ -1,9 +1,20 @@
-# ProyectoIV #
+# Álbum de fotos #
 
-## Aplicación de tratamiento de Imágenes ##
+## Descripción ##
+
+Se realizará un mocroservicio de almacenaje y clasificación de fotografías a modo de álbun virtual.
+
+Se podrán subir imágenes, ponerles título y comentarios, agruparlas en subcarpetas por distintas categorías, eventos y tags.
+
+
+## Motivaciones ##
+
+Crear un sitema virtual remoto de almacenamiento para que las personas puedan atesorar sus bienes más preciados, sus recuerdos, por medio de la clasificación de imágenes que les evoquen un evento memorable de sus vidas.
+
+## Desarrollo ##
+
+
+
 
 ### [Repositorio Anexo de Ejercicios](https://github.com/Gadri8/EjerciciosIV) ###
 
-Se realizara una aplicación multimedia con su propia GUI, al más estilo Paint o cualquier editor de imágenes básico, pero sólo enfocado a añadir filtros a una imagen. Estará basada en lenguaje Java como se ha estudiado en la asignatura de Sistemas Multimedia.  
-Ésta constará de una serie de eventos java para aplicar varios cambios y filtros, como por ejemplo efecto espejo, aplicar color sepia, atenuar o disminuir el brillo, o demás efectos que se irán añadiendo más a delante con forme se vean necesarios.  
-Finalmente se podrá guardar de forma local la imagen final.
