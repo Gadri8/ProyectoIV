@@ -2,7 +2,7 @@
 
 ## Proyecto de Infraestructua Virtual ##
 
-Repositorio Principal para el desarrollo de un multiservio.
+Repositorio Principal para el desarrollo de un microservicio.
 
 #### [Repositorio Anexo de Ejercicios](https://github.com/Gadri8/EjerciciosIV) ####
 
@@ -27,4 +27,3 @@ Para la realización del proyecto se usará principalmente el sistema cloud de M
 - Azure Functions y Web Apps.
 - Lenguajes Java, JavaScript.
 - Node.JS
-- JSON
