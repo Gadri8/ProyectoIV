@@ -12,13 +12,13 @@ Crear un sitema virtual remoto de almacenamiento para que las personas puedan at
 
 ## Descripción ##
 
-Se realizará un microservicio basado en eventos para el almacenaje y clasificación de fotografías a modo de álbun virtual.  
+Se realizará un microservicio basado en eventos para el almacenaje y clasificación de fotografías a modo de álbum virtual.  
 
 Se podrá:
 
-- Subir imágenes, añadirles etiquetas o tags y un posible comentario de lo que ocurre en ella.
-- Crear subcarpetas o grupos para organizar distintas imágenes que tengan una posible relación.
-- Y gestión de estas mismas como edición o borrado de alguno de los casos anteriores.
+- Subir imágenes, añadirles etiquetas o tags y un comentario de lo que ocurre en ella.
+- Crear subcarpetas para organizar distintas imágenes que tengan una posible relación.
+- Gestión de estas mismas como edición o borrado de alguno de los casos anteriores.
 
 ## Herramientas ##
 
