@@ -6,24 +6,24 @@ Repositorio Principal para el desarrollo de un microservicio.
 
 #### [Repositorio Anexo de Ejercicios](https://github.com/Gadri8/EjerciciosIV) ####
 
+## Motivaciones ##
+
+Crear un sitema virtual remoto de almacenamiento para que las personas puedan atesorar sus bienes más preciados, sus recuerdos, por medio de la clasificación y organización de imágenes que les evoquen un evento memorable de sus vidas.   
 
 ## Descripción ##
 
-Se realizará un microservicio de almacenaje y clasificación de fotografías a modo de álbun virtual.
+Se realizará un microservicio basado en eventos para el almacenaje y clasificación de fotografías a modo de álbun virtual.  
 
-Se podrán subir imágenes, ponerles título y comentarios, agruparlas en subcarpetas por distintas categorías, eventos y tag.
+Se podrá:
 
+- Subir imágenes, añadirles etiquetas o tags y un posible comentario de lo que ocurre en ella.
+- Crear subcarpetas o grupos para organizar distintas imágenes que tengan una posible relación.
+- Y gestión de estas mismas como edición o borrado de alguno de los casos anteriores.
 
-## Motivaciones ##
+## Herramientas ##
 
-Crear un sitema virtual remoto de almacenamiento para que las personas puedan atesorar sus bienes más preciados, sus recuerdos, por medio de la clasificación de imágenes que les evoquen un evento memorable de sus vidas.
+Para la realización del proyecto se necesitará de la siguiente infraestructura:
 
-
-## Desarrollo ##
-
-Para la realización del proyecto se usará principalmente el sistema cloud de Microsoft Azure más su multitud de herramientas que dispone:
-
-- Como log se usará un plugin de Logstash para Microsoft Azure Services.
-- Azure Functions y Web Apps.
-- Lenguajes Java, JavaScript.
-- Node.JS
+- Para el uso de [Logstash](https://www.elastic.co/es/products/logstash) se debe poder correr una JMV, existente en los principales SO actuales.
+- Disponer del entorno [Node.js](https://nodejs.org/es/).
+- Usar base de datos [MongoDB](https://www.mongodb.com/es) que es NoSQL.
